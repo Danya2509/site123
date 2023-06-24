@@ -132,14 +132,18 @@ footer p:hover  {
 .post-1 h2:hover {
   transform: scale(1.1);
 }
-.ahref {
+.post-2 {
     text-decoration: none;
     border- radius: 10px;
     background-color: #DCDDE1;
     padding: 5px;
+    color: #00ffff;
 }
-h2 {
+.post-3 {
     background-color: #DCDDE1;
     padding: 5px;
     text-align: center;
+}
+.post-2:hover {
+    color: #808080
 }
