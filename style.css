@@ -143,6 +143,7 @@ footer p:hover  {
     background-color: #DCDDE1;
     padding: 5px;
     text-align: center;
+    width: 300px;
 }
 .post-2:hover {
     color: #808080
